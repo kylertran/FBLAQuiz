@@ -8,9 +8,9 @@ FBLA Quiz is a fun quiz about the Future Business Leaders Of America organizatio
 
 FBLA Quiz runs on Windows Vista/7/8/8.1/10 or above.
 
-Main Features:
+<h5>Main Features:</h5>
 * 50 random questions to answer using a variety of input methods.
-FBLA Quiz user interface includes three parts:
+<h5>FBLA Quiz user interface includes three parts:</h5>
 * Start Menu: allows you to start a new game or see the high scores.
 * Multiple Choice: questions
 * Checkboxes: questions
