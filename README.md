@@ -1,6 +1,5 @@
 # FBLAQuiz
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
             Coding & Programming project for FBLA 2021
             
                       FBLA Quiz Version 1.0
