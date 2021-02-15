@@ -17,8 +17,7 @@ FBLA Quiz user interface includes three parts:
 * Checkboxes: questions
 * Fill in the Blank: questions.
 
-FBLA Quiz is free software distributed under unlicense. Read
-License.txt for more information about license.
+FBLA Quiz is free software distributed under unlicense. Read [License.txt](License.txt) for more information.
 
 Kyler Tran
 
