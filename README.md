@@ -10,7 +10,7 @@ FBLA Quiz runs on Windows Vista/7/8/8.1/10 or above.
 
 Main Features:
 
-*) 50 random questions to answer using a variety of input methods.
+* 50 random questions to answer using a variety of input methods.
 
 FBLA Quiz user interface includes three parts:
 * Start Menu: allows you to start a new game or see the high scores.
