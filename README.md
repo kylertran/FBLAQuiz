@@ -1,7 +1,7 @@
 # FBLAQuiz
 <h3><p align="center">Coding & Programming project for FBLA 2021</p>
 <p align="center">FBLA Quiz Version 1.0</p>
-<p align="center">Copyright(C) 2020-2021 Kyler Tran</p>
+<p align="center">Copyright&copy; 2020-2021 Kyler Tran</p>
 <p align="center">All Rights Reserved</p></h3>
 
 FBLA Quiz is a fun quiz about the Future Business Leaders Of America organization.
