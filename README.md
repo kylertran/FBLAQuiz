@@ -19,7 +19,7 @@ FBLA Quiz user interface includes three parts:
 
 FBLA Quiz is free software distributed under unlicense. Read our [license page](LICENSE.md) for more information.
 
-Need help with our software? Visit our [help page](help.html) for detailed instructions.
+Need help with our software? Visit our [help page](Help) for detailed instructions.
 
 Kyler Tran
 
