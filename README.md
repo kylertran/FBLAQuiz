@@ -1,4 +1,4 @@
-# FBLAQuiz
+# FBLA Quiz
 <h3><p align="center">Coding & Programming project for FBLA 2021</p>
 <p align="center">FBLA Quiz Version 1.0</p>
 <p align="center">Copyright &copy; 2020-2021 Kyler Tran</p>
