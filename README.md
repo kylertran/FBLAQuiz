@@ -10,9 +10,10 @@ FBLA Quiz runs on Windows Vista/7/8/8.1/10 or above.
 
 <h4>Main Features:</h4>
 * 50 random questions to answer using a variety of input methods.
+* Questions stored in SQL database.
 * Ability to save quiz results to PDF.
 * Dark mode.
-<h4>FBLA Quiz supports many input methods including:</h4>
+<h4>FBLA Quiz supports many question types including:</h4>
 * Multiple choice.
 * Checkboxes.
 * Fill in the Blank.
