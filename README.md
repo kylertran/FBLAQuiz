@@ -19,7 +19,13 @@ FBLA Quiz runs on Windows Vista/7/8/8.1/10 or above.
 * Fill in the Blank.
 * Drag and drop.
 
-FBLA Quiz is free software distributed under unlicense. Read our [license page](LICENSE.md) for more information.
+FBLA Logo is trademarked by the Future Business Leaders of America (FBLA)
+UCanAccess is licensed under Apache 2.0
+JFreeChart is licensed under GNU LGPL
+ITextPDF is license under AGPL
+
+FBLA Quiz is free software distributed under AGPL. Read
+License.txt for more information about license.
 
 Need help with our software? Visit our [help page](Help) for detailed instructions.
 
