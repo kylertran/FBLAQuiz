@@ -1,4 +1,5 @@
 # FBLA Quiz
+[![Watch my submission](https://img.youtube.com/vi/wjEfiYlYq9Y/0.jpg)](https://www.youtube.com/watch?v=wjEfiYlYq9Y)
 
 **Coding & Programming project for FBLA 2021**  
 **Copyright &copy; 2020-2021 Kyler Tran**  
