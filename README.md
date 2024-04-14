@@ -24,13 +24,13 @@ FBLA Quiz is an interactive quiz application designed to test your knowledge abo
 - Drag and drop
 
 ## Licensing
-- **FBLA Quiz**: Distributed under the AGPL license. See `License.txt` for more details.
+- **FBLA Quiz**: Distributed under the AGPL license. See `LICENSE.md` for more details.
 - **UCanAccess**: Licensed under Apache 2.0.
 - **JFreeChart**: Licensed under GNU LGPL.
 - **ITextPDF**: Licensed under AGPL.
 
 ## Support
-For assistance with FBLA Quiz, visit our [help page](Help) for detailed instructions and support resources.
+For assistance with FBLA Quiz, visit our [help page](Help.html) for detailed instructions and support resources.
 
 ## Contact
 **Developer**: Kyler Tran  
