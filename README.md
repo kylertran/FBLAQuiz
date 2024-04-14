@@ -1,4 +1,4 @@
-# FBLA Quiz Version 1.0
+# FBLA Quiz
 
 **Coding & Programming project for FBLA 2021**  
 **Copyright &copy; 2020-2021 Kyler Tran**  
