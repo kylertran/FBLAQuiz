@@ -3,7 +3,6 @@
 
 **Coding & Programming project for FBLA 2021**  
 **Copyright &copy; 2020-2021 Kyler Tran**  
-**All Rights Reserved**
 
 ## Overview
 FBLA Quiz is an interactive quiz application designed to test your knowledge about the Future Business Leaders of America (FBLA) organization. This tool is perfect for both new members and seasoned participants to refresh their understanding of FBLA's core principles and history.
@@ -33,5 +32,5 @@ FBLA Quiz is an interactive quiz application designed to test your knowledge abo
 For assistance with FBLA Quiz, visit our [help page](Help.html) for detailed instructions and support resources.
 
 ## Contact
-**Developer**: Kyler Tran  
+Kyler Tran  
 **Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
